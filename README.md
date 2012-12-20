@@ -9,4 +9,4 @@ You could build a cross compiler toolchain!
  
 Prerequisite: Linux x86_64 (libc6)
  
-See gcc-config.txt for condfiguration details.
+See gcc-config.txt for configuration details.
